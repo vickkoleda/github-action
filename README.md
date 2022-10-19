@@ -198,7 +198,7 @@ Merge your pull request so the action will be a part of the `main` branch.
   Define terms and link to docs.github.com.
 -->
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Trigger the workflow</h2></summary>
 
 _You've now got a fully functioning workflow! :smile:_
